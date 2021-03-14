@@ -1,0 +1,94 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+header h1 {
+    color: white;
+    background-color: rgb(23, 30, 94);
+    font-family: 'Russo One', sans-serif;
+    font-size: 90px;
+    font-weight: 200;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 100px;
+    margin-top: 50px;
+}
+
+code {
+    font-family: monospace;
+}
+
+table {
+    margin: 0 auto;
+}
+
+h1, h2, th {
+    color: rgb(23, 30, 94);
+}
+
+p {
+    font-size: 20px;
+}
+
+thead th {
+    border: none;
+    background-color: rgb(23, 30, 94);
+    color: white;
+    padding: 2%;
+    font-size: 27px;
+}
+
+.example {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    background-color: rgb(42, 39, 65);
+}
+
+.tag {
+    color: rgb(175, 53, 114);
+}
+
+.code-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: white;
+}
+
+.html-heading {
+    text-align: center;
+}
+
+.tag-heading {
+    text-align: left;
+}
+
+.element-description {
+    vertical-align: top;
+}
+
+button {
+    float: right;
+    padding: 1%;
+    font-size: 27px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    width: 15%;
+}
+
+button a {
+    text-decoration: none;
+    color: rgb(23, 30, 94);
+}
+
+footer p {
+    color: white;
+    background-color: rgb(23, 30, 94);
+    font-family: 'Russo One', sans-serif;
+    font-size: 30px;
+    font-weight: 200;
+    padding: 50px;
+    margin: 50px auto;
+}
+
