@@ -70,11 +70,10 @@ thead th {
 
 button {
     float: right;
-    padding: 1%;
     font-size: 27px;
     border: 2px solid #ddd;
     border-radius: 10px;
-    width: 15%;
+    width: 12%;
 }
 
 button a {
